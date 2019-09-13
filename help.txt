@@ -1,0 +1,37 @@
+Jeff has an inventory where he stores all of his items.
+Inventory can be viewed by typing “inventory” or “i”.
+
+Jeff can pick up items of the ground.
+By typing “pick up”, “take”, or “get” 
+and the name of the item they wish to pick up.
+
+Jeff can see what is around him. 
+By typing “look”, “examine”, or “view”.
+
+Jeff can examine items on the ground.
+By typing “look”, “examine”, or “view” 
+and the name of the item they wish to examine.
+
+Jeff moves in main cardinal directions.
+By typing “west”, “east”, “south” or “north” 
+or simply “w”, “e”, “s” or “n”.
+
+At the shop Jeff may buy and sell items.
+By typing “buy” or “sell” 
+and the name of the item they wish to buy or sell.
+
+Jeff can combine up to 4 items together.
+By typing “combine” or “craft” or "c"
+and the names of the items they wish to combine. 
+e.g. “combine apple pen”.
+
+Jeff can use items by typing “use” 
+and the name of the item they wish to use.
+
+In addition Jeff can “climb”
+and “give” items to NPCs.
+
+In “hangman” minigame. 
+Jeff can type individual characters 
+to help fill in the word 
+or guess the whole word all at once.
